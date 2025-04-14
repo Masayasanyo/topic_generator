@@ -1,6 +1,6 @@
 # Topic Generator
 
-A simple app to manage recipes.<br/>
+A simple app that gives you random conversation topics.<br/>
 ランダムに話題を考えてくれるアプリです。
 
 ## DEMO
